@@ -1,0 +1,360 @@
+TContact
+v7
+r0
+t280111375.564618
+cCheck dependencies
+cProcessInfoPlistFile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Info.plist Contact-Info.plist
+cCpResource build/Debug/Contact.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib
+cCompileXIB /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib
+cProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch.gch Contact_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel
+cCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/Dev/Contact/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.o /Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Email.o /Users/kevinmcaleer/Xcode/Dev/Contact/Email.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact normal x86_64
+cTouch /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A583802000000000000043A
+t1247295490
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h
+c000000004B00A1890000000000000122
+t1258332553
+s290
+i<Cocoa/Cocoa.h>
+i<Contact.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m
+c000000004B00A18900000000000000D5
+t1258332553
+s213
+i"AppController.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/Contact.h
+c000000004B00A18900000000000002C5
+t1258332553
+s709
+i<CoreData/CoreData.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m
+c000000004B00A189000000000000012A
+t1258332553
+s298
+i"Contact.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/Contact_Prefix.pch
+c000000004B00A18900000000000000D9
+t1258332553
+s217
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/Email.h
+c000000004B00A1890000000000000142
+t1258332553
+s322
+i<CoreData/CoreData.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/Email.m
+c000000004B00A18900000000000000E1
+t1258332553
+s225
+i"Email.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/Credits.rtf
+c000000004B00A18900000000000001B4
+t1258332553
+s436
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/InfoPlist.strings
+c000000004B00A189000000000000005A
+t1258332553
+s90
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib
+c000000004B00A18900000000000216C1
+t1258332553
+s136897
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib
+c000000004B01ED8A000000000000C861
+t1258417546
+s51297
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.h
+c000000004B00A18900000000000000E3
+t1258332553
+s227
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m
+c000000004B00A189000000000000022F
+t1258332553
+s559
+i"MyDocument.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel
+c000000004B01F1DC00000000000000AA
+t1258418652
+s170
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.LinkFileList
+c000000004B019C6600000000000001C7
+t1258396774
+s455
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.o
+t1258396750
+s6060
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Email.o
+t1258396750
+s5728
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t1258396750
+s19120
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/main.o
+t1258396750
+s4984
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app
+t1258417550
+s136
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Info.plist
+t1258396736
+s2488
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact
+t1258396775
+s11440
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/PkgInfo
+t1258396736
+s8
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/Credits.rtf
+t1258396737
+s436
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1258396737
+s90
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/MainMenu.nib
+t1258396737
+s30741
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/MyDocument.nib
+t1258417550
+s13814
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/MyDocument.mom
+t1258400974
+s4685
+
+N/Users/kevinmcaleer/Xcode/Dev/Contact/main.m
+c000000004B00A1890000000000000105
+t1258332553
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch.gch
+t1258396749
+s54212368
+
+NContact-Info.plist
+c000000004B00A1890000000000000A6D
+t1258332553
+s2669
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280111375#280111375#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/AppController.o /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089550.715919
+e280089550.895447
+r0
+xCompileC
+xbuild/Contact.build/Debug/Contact.build/Objects-normal/x86_64/AppController.o
+x/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m:9:
+o/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+lSLF07#2@61"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m280089550#280089550#0(208"In file included from /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m:9:/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token1(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token280089550#79#129#2(7@75"In file included from /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m280089550#18446744073709551615#0#0(6@53"/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m280025353#9#0#9#0#0"0(13@120"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h280089550#18446744073709551615#0#0(6@53"/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h280025353#14#0#14#0#0"0(6@53"/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.h280025353#14#0#14#0#19"expected * before *0(0#0#53"/Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m4300882208#1096"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/Contact/AppController.m -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/AppController.o1#
+
+CCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.o /Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089550.468493
+e280089550.715806
+r1
+xCompileC
+xbuild/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.o
+x/Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m280089550#280089550#0(0"0(0#0#47"/Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m4300882208#1084"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/Contact/Contact.m -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.o0#
+
+CCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Email.o /Users/kevinmcaleer/Xcode/Dev/Contact/Email.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089550.612831
+e280089550.826909
+r1
+xCompileC
+xbuild/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Email.o
+x/Users/kevinmcaleer/Xcode/Dev/Contact/Email.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/Email.m280089550#280089550#0(0"0(0#0#45"/Users/kevinmcaleer/Xcode/Dev/Contact/Email.m4300882208#1080"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/Contact/Email.m -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Email.o0#
+
+CCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089549.854241
+e280089550.468372
+r1
+xCompileC
+xbuild/Contact.build/Debug/Contact.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m280089549#280089550#0(0"0(0#0#50"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m4300882208#1107"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.m -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/Dev/Contact/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089550.433657
+e280089550.612708
+r1
+xCompileC
+xbuild/Contact.build/Debug/Contact.build/Objects-normal/x86_64/main.o
+x/Users/kevinmcaleer/Xcode/Dev/Contact/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/main.m280089550#280089550#0(0"0(0#0#44"/Users/kevinmcaleer/Xcode/Dev/Contact/main.m4300882208#1078"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/Contact/main.m -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib
+s280089537.183784
+e280089537.797267
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib280089537#280089537#0(0"0(0#0#64"/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib4300882208#324"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib
+s280110350.693369
+e280110350.992052
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib280110350#280110350#0(0"0(0#0#66"/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib4300882208#328"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/MyDocument.nib /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s280089536.964135
+e280089537.828370
+r1
+xCopyStringsFile
+x/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings280089536#280089537#0(0"0(0#0#69"/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/InfoPlist.strings4300882208#364"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Contact.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s280089536.962258
+e280089537.183679
+r1
+xCpResource
+xbuild/Debug/Contact.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf280089536#280089537#0(0"0(0#0#63"/Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/Credits.rtf4300882208#352"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kevinmcaleer/Xcode/Dev/Contact/English.lproj/Credits.rtf /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel
+s280093774.635590
+e280093774.722978
+r1
+xDataModelCompile
+x/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/MyDocument.mom
+x/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel
+o/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Contact.Email: warning: Contact.Email -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 
+o/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Contact.PhoneNumbers: warning: Contact.PhoneNumbers -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 
+o/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Phone: warning: Phone -- abstract entity has no children defined 
+o/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Phone.PhoneType: warning: Phone.PhoneType -- relationship does not have an inverse 
+lSLF07#2@68"Compile /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel280093774#280093774#0(788"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Contact.Email: warning: Contact.Email -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Contact.PhoneNumbers: warning: Contact.PhoneNumbers -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Phone: warning: Phone -- abstract entity has no children defined /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel:Phone.PhoneType: warning: Phone.PhoneType -- relationship does not have an inverse 4(22@165"Contact.Email -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 280093774#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel280093766#0#0#0#0#0"0(22@172"Contact.PhoneNumbers -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 280093774#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel280093766#0#0#0#0#0"0(22@49"Phone -- abstract entity has no children defined 280093774#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel280093766#0#0#0#0#0"0(22@57"Phone.PhoneType -- relationship does not have an inverse 280093774#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel280093766#0#0#0#0#0"0(0#0#60"/Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel4300882208#259"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kevinmcaleer/Xcode/Dev/Contact/MyDocument.xcdatamodel /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Resources/MyDocument.mom0#
+
+CLd /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact normal x86_64
+s280089574.827584
+e280089575.753305
+r1
+xLd
+x/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact280089574#280089575#0(0"0(0#0#0"4300882208#537"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -filelist /Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Objects-normal/x86_64/Contact.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/MacOS/Contact0#
+
+CProcessInfoPlistFile /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Info.plist Contact-Info.plist
+s280089536.928116
+e280089536.961940
+r1
+xProcessInfoPlistFile
+x/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Info.plist
+xContact-Info.plist
+lSLF07#2@26"Process Contact-Info.plist280089536#280089536#0(0"0(0#0#56"/Users/kevinmcaleer/Xcode/Dev/Contact/Contact-Info.plist18859025309827188#307"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    builtin-infoPlistUtility Contact-Info.plist -genpkginfo /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch.gch Contact_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280089538.056970
+e280089549.773532
+r1
+xProcessPCH
+x/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch.gch
+xContact_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Contact_Prefix.pch280089538#280089549#0(0"0(0#0#56"/Users/kevinmcaleer/Xcode/Dev/Contact/Contact_Prefix.pch4300882208#985"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/Contact.hmap -F/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/Contact/build/Contact.build/Debug/Contact.build/DerivedSources -c /Users/kevinmcaleer/Xcode/Dev/Contact/Contact_Prefix.pch -o /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contact_Prefix-fzzayoihutewwofnlnnadawrvnrh/Contact_Prefix.pch.gch0#
+
+CTouch /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app
+s280110350.993347
+e280110350.996634
+r1
+xTouch
+x/Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app
+lSLF07#2@67"Touch /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app280110350#280110350#0(0"0(0#0#0"4300882208#129"    cd /Users/kevinmcaleer/Xcode/Dev/Contact    /usr/bin/touch -c /Users/kevinmcaleer/Xcode/Dev/Contact/build/Debug/Contact.app0#
+
